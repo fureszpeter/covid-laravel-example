@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2841edb13c6aac4d04aaed9ddd85a21e",
+    "content-hash": "b5fb6c5eb89102f1767a34c9ebb5e88e",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -596,16 +596,16 @@
         },
         {
             "name": "furesz/covid-data-checker",
-            "version": "1.1",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fureszpeter/covid-data-fetcher.git",
-                "reference": "294de7d65720227763c9cf7a23f5fd177f5f3073"
+                "reference": "212de37e329cf186cf7715175af4b547f0ffcd03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fureszpeter/covid-data-fetcher/zipball/294de7d65720227763c9cf7a23f5fd177f5f3073",
-                "reference": "294de7d65720227763c9cf7a23f5fd177f5f3073",
+                "url": "https://api.github.com/repos/fureszpeter/covid-data-fetcher/zipball/212de37e329cf186cf7715175af4b547f0ffcd03",
+                "reference": "212de37e329cf186cf7715175af4b547f0ffcd03",
                 "shasum": ""
             },
             "require": {
@@ -633,7 +633,7 @@
                 }
             ],
             "description": "Hungarian official site fetcher (through archive.org)",
-            "time": "2020-11-25T14:19:57+00:00"
+            "time": "2020-11-25T14:54:17+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -7575,7 +7575,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "furesz/covid-data-checker": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

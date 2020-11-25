@@ -1,6 +1,6 @@
 {
-    "lastRequestedDate": "2020-03-25T00:00:00+00:00",
-    "closestDateForLastRequest": "2020-03-25T12:16:12+00:00",
+    "lastRequestedDate": "2020-04-18T00:00:00+00:00",
+    "closestDateForLastRequest": "2020-04-18T12:15:13+00:00",
     "results": [
         {
             "url": "http:\/\/web.archive.org\/web\/20200305085214\/https:\/\/koronavirus.gov.hu\/",
@@ -231,6 +231,270 @@
                 "lockDown": 85,
                 "samples": 6817,
                 "died": 10
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200326121644\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-26T12:16:44+00:00",
+            "data": {
+                "infected": 261,
+                "healed": 28,
+                "lockDown": 100,
+                "samples": 8005,
+                "died": 10
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200327121544\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-27T12:15:44+00:00",
+            "data": {
+                "infected": 300,
+                "healed": 34,
+                "lockDown": 84,
+                "samples": 9275,
+                "died": 10
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200328121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-28T12:15:05+00:00",
+            "data": {
+                "infected": 343,
+                "healed": 34,
+                "lockDown": 87,
+                "samples": 10303,
+                "died": 11
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200329121542\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-29T12:15:42+00:00",
+            "data": {
+                "infected": 408,
+                "healed": 34,
+                "lockDown": 71,
+                "samples": 12148,
+                "died": 13
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200330121506\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-30T12:15:06+00:00",
+            "data": {
+                "infected": 447,
+                "healed": 34,
+                "lockDown": 73,
+                "samples": 13301,
+                "died": 15
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200331121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-03-31T12:15:05+00:00",
+            "data": {
+                "infected": 492,
+                "healed": 37,
+                "lockDown": 61,
+                "samples": 14146,
+                "died": 16
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200401120857\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-01T12:08:57+00:00",
+            "data": {
+                "infected": 525,
+                "healed": 40,
+                "lockDown": 61,
+                "samples": 15208,
+                "died": 20
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200402121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-02T12:15:05+00:00",
+            "data": {
+                "infected": 585,
+                "healed": 42,
+                "lockDown": 59,
+                "samples": 16401,
+                "died": 20
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200403121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-03T12:15:05+00:00",
+            "data": {
+                "infected": 623,
+                "healed": 43,
+                "lockDown": 11399,
+                "samples": 17769,
+                "died": 26
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200404120944\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-04T12:09:44+00:00",
+            "data": {
+                "infected": 678,
+                "healed": 58,
+                "lockDown": 12492,
+                "samples": 19424,
+                "died": 32
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200405121506\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-05T12:15:06+00:00",
+            "data": {
+                "infected": 733,
+                "healed": 66,
+                "lockDown": 13435,
+                "samples": 21250,
+                "died": 34
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200406121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-06T12:15:05+00:00",
+            "data": {
+                "infected": 744,
+                "healed": 67,
+                "lockDown": 14325,
+                "samples": 22282,
+                "died": 38
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200407121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-07T12:15:05+00:00",
+            "data": {
+                "infected": 817,
+                "healed": 71,
+                "lockDown": 14997,
+                "samples": 23746,
+                "died": 47
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200408121517\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-08T12:15:17+00:00",
+            "data": {
+                "infected": 895,
+                "healed": 94,
+                "lockDown": 15481,
+                "samples": 25748,
+                "died": 47
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200409121635\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-09T12:16:35+00:00",
+            "data": {
+                "infected": 980,
+                "healed": 96,
+                "lockDown": 16006,
+                "samples": 27826,
+                "died": 17
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200410121544\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-10T12:15:44+00:00",
+            "data": {
+                "infected": 1190,
+                "healed": 112,
+                "lockDown": 16006,
+                "samples": 29948,
+                "died": 17
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200411121510\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-11T12:15:10+00:00",
+            "data": {
+                "infected": 1310,
+                "healed": 115,
+                "lockDown": 17490,
+                "samples": 31961,
+                "died": 36
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200412121516\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-12T12:15:16+00:00",
+            "data": {
+                "infected": 1410,
+                "healed": 118,
+                "lockDown": 15333,
+                "samples": 33532,
+                "died": 50
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200413120332\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-13T12:03:32+00:00",
+            "data": {
+                "infected": 1458,
+                "healed": 120,
+                "lockDown": 15333,
+                "samples": 34819,
+                "died": 60
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200414115952\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-14T11:59:52+00:00",
+            "data": {
+                "infected": 1512,
+                "healed": 122,
+                "lockDown": 14355,
+                "samples": 35825,
+                "died": 73
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200415121511\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-15T12:15:11+00:00",
+            "data": {
+                "infected": 1579,
+                "healed": 192,
+                "lockDown": 13360,
+                "samples": 37326,
+                "died": 85
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200416121849\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-16T12:18:49+00:00",
+            "data": {
+                "infected": 1652,
+                "healed": 199,
+                "lockDown": 12737,
+                "samples": 38489,
+                "died": 93
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200417121505\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-17T12:15:05+00:00",
+            "data": {
+                "infected": 1763,
+                "healed": 207,
+                "lockDown": 12401,
+                "samples": 41590,
+                "died": 107
+            }
+        },
+        {
+            "url": "http:\/\/web.archive.org\/web\/20200418121513\/https:\/\/koronavirus.gov.hu\/",
+            "date": "2020-04-18T12:15:13+00:00",
+            "data": {
+                "infected": 1834,
+                "healed": 231,
+                "lockDown": 12150,
+                "samples": 43901,
+                "died": 123
             }
         }
     ]
